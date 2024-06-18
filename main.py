@@ -12,8 +12,8 @@ from datetime import datetime
 
 API_ID = "14050586"
 API_HASH = "42a60d9c657b106370c79bb0a8ac560c"
-BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
-MONGO_URL = os.environ.get("MONGO_URL", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7158409308:AAExRlGIJ4XD9ZsO6uDO7y4gcA8DH1kCa7g") 
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://BWFMUSIC:BWFMUSIC@cluster0.xwnup2l.mongodb.net/?retryWrites=true&w=majority")
 
 DATABASE_NAME = os.environ.get("DATABASE_NAME") 
 BOT_USERNAME = os.environ.get("BOT_USERNAME")
