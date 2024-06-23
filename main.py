@@ -79,7 +79,7 @@ async def restart(client, m: Message):
     await accha.edit("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠.....")
     await asyncio.sleep(0.2)
     await accha.edit("✨𝐖𝐄𝐋𝐂𝐎𝐌𝐄🍁𝐓𝐎🥀𝐀𝐘𝐈𝐍𝐀🌹𝐒𝐔𝐏𝐄𝐑𝐅𝐀𝐒𝐓🌸𝐂𝐇𝐀𝐓𝐁𝐎𝐓🌺")
-    await asyncio.sleep(0.𝟑)
+    await asyncio.sleep(0.3)
     await accha.edit("ʟᴇᴛ's ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ ʙᴀʙʏ🥀")
      
 
